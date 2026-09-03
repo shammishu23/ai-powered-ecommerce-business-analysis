@@ -49,6 +49,7 @@ Compared revenue, profit, and profitability across UPI, Credit Card, Debit Card,
 ## Dashboard
 
 The Excel dashboard provides an interactive view of overall business performance using KPIs, charts, filters, and PivotTable-based analysis.
+![E-Commerce Business Dashboard](images/dashboard_image.png)
 
 ## Key Insights
 
