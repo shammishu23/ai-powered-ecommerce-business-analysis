@@ -82,7 +82,7 @@ The underlying calculations and PivotTable analysis were performed in Excel. AI 
 
 - `AI_Powered_Ecommerce_Business_Analysis.xlsx` — Excel workbook containing the dataset, PivotTable analysis, dashboard, and AI analysis.
 - `AI_Powered_Ecommerce_Business_Analysis_Report.pdf` — Detailed project report.
-- `images/dashboard.png` — Dashboard preview.
+- `images/dashboard_image.png` — Dashboard preview.
 
 ## Project Outcome
 
